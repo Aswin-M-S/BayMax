@@ -15,6 +15,6 @@ Then I went for hardcoding the python script just to increase its functionality 
 And i have deployed it for public download in my website www.rift.bookmark.com ( you can try from there as
 well as download my attached exe file )
 
-The attched exe file is for built for evaluation purpose so when you try it will run after just 5 sec :) 
+The attched exe file is for built for evaluation purpose only, so when you try it will run after just 5 sec :) 
 Happy Coding....
 ```
